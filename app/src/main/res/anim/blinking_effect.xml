@@ -1,0 +1,15 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--Makes the alpha from 0 which cant be seen to 1 to alpha that sets it to be seen
+    duration how long it takes to do it
+    repeat mode means it repeats in reverse
+    repeat count means it repeats infinite and never stops
+    -->
+    <alpha
+        android:fromAlpha="0.0"
+        android:toAlpha="1.0"
+        android:duration="1000"
+        android:repeatMode="reverse"
+        android:repeatCount="infinite"
+        android:interpolator="@android:anim/accelerate_interpolator">
+    </alpha>
+</set>

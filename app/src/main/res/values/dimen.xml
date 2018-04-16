@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!--This is the padding dimensions for the text area that displays the text with the bigger
+    background by being enlarged with this padding-->
+    <dimen name="padding">15dp</dimen>
+    <!--This is the text size dimensions for the text area that shows the text-->
+    <dimen name="textSize">26dp</dimen>
+
+
+</resources>

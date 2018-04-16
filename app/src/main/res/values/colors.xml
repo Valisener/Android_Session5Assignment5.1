@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Didnt need to use this so no real comments here-->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--This is the text view background for the flashing area background-->
+    <color name="text_View_Background">#C1C1C1</color>
+    <!--This is the text view text color -->
+    <color name="text_View_Color">#fc5d72</color>
+</resources>

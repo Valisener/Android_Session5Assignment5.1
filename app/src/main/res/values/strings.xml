@@ -1,0 +1,8 @@
+<resources>
+    <!--Application name -->
+    <string name="app_name">BlinkingEffect</string>
+    <!--Button text that says Start Animation-->
+    <string name="btn_StartAnimation">START ANIMATION</string>
+    <!--Text Area text that says This is a fadein animation exactly as it is on the assignment-->
+    <string name="text_Message">This is faidein animation</string>
+</resources>
